@@ -1,0 +1,21 @@
+{
+  "name": "treeshaking",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "MainPage.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@maxbcm/webui-sdk": "^1.0.135",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.1",
+    "vite-plugin-checker": "^0.7.2",
+    "vitest": "^2.1.4"
+  }
+}
