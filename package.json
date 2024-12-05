@@ -11,8 +11,10 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@maxbcm/webui-sdk": "^1.0.135"
+  },
   "devDependencies": {
-    "@maxbcm/webui-sdk": "^1.0.135",
     "typescript": "^5.5.4",
     "vite": "^5.4.1",
     "vite-plugin-checker": "^0.7.2",
